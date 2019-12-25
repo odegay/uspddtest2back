@@ -1,0 +1,23 @@
+{
+"_id":"5de81d67a11d44c2ce2528c9",
+"id":"1",
+"updatedate":null,
+"qId":"1",
+"originalquestionstring":"A driver approaching a flashing red traffic signal must",
+"originalanswers":[
+	{"id":"1","originalanswer":"Slow down at the traffic light"},
+	{"id":"2","originalanswer":"Drive carefully without stopping"},
+	{"id":"3","originalanswer":"Merge to the right"},
+	{"id":"4","originalanswer":"Stop before entering the intersection"}
+	],
+"translations":[{
+	"langid":"rus",
+	"transquestion":"Водитель, приближающийся к мигающему красному светофору, должен",
+	"transanswers":[
+		{"id":"1","transanswer":"Замедлить на светофоре"},
+		{"id":"2","transanswer":"осторожно ехать, не останавливаясь"},
+		{"id":"3","transanswer":"Свернуть направо"},
+		{"id":"4","transanswer":"остановиться перед въездом на перекресток"}
+		]
+	}],
+"languages":[]}
